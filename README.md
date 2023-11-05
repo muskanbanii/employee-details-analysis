@@ -1,8 +1,10 @@
 # employee-details-analysis
-# HR Data Analysis Project
 
 ## Overview
 This project analyzes HR data from the year 2000 to 2020, consisting of over 22,000 records. We used MySQL Workbench for data cleaning and analysis and PowerBI for data visualization.
+
+
+
 
 ## Key Questions
 We explored the following questions to gain insights from the data:
@@ -18,6 +20,11 @@ We explored the following questions to gain insights from the data:
 9. **Geographic Spread**: Where are employees located by state?
 10. **Historical Trends**: How has the employee count changed over time?
 11. **Tenure in Departments**: What's the average tenure in each department?
+
+##PowerBi Dashboard for the analysis and findings
+![image](https://github.com/muskanbanii/employee-details-analysis/assets/98096217/3d7f1342-1234-42ba-84d2-96f25297fa1d)
+
+![image](https://github.com/muskanbanii/employee-details-analysis/assets/98096217/3811683f-0e48-4836-994d-8442d5ac6194)
 
 ## Key Findings
 Our analysis revealed:
@@ -38,9 +45,5 @@ Consider these limitations:
 
 - Some records had negative ages and were excluded (967 records). We considered employees aged 18 and above.
 - Records with termination dates far in the future were excluded (1,599 records). We only considered dates less than or equal to the current date.
-
-![Vizualised power Bi Chart](![image](https://github.com/muskanbanii/employee-details-analysis/assets/98096217/a8123b78-7b5d-4bc0-8f52-cc18cf086af4)
-)
-![image](https://github.com/muskanbanii/employee-details-analysis/assets/98096217/3811683f-0e48-4836-994d-8442d5ac6194)
 
 
