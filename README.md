@@ -21,7 +21,7 @@ We explored the following questions to gain insights from the data:
 10. **Historical Trends**: How has the employee count changed over time?
 11. **Tenure in Departments**: What's the average tenure in each department?
 
-##PowerBi Dashboard for the analysis and findings
+## PowerBi Dashboard for the analysis and findings
 ![image](https://github.com/muskanbanii/employee-details-analysis/assets/98096217/3d7f1342-1234-42ba-84d2-96f25297fa1d)
 
 ![image](https://github.com/muskanbanii/employee-details-analysis/assets/98096217/3811683f-0e48-4836-994d-8442d5ac6194)
